@@ -1,0 +1,68 @@
+C:\Users\kero\My Private Documents\Pets\PetsApi\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\kero\My Private Documents\Pets\PetsApi\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\kero\My Private Documents\Pets\PetsApi\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\bin\Debug\net8.0\PetsInfo.Api.exe
+C:\Users\kero\My Private Documents\Pets\PetsApi\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\bin\Debug\net8.0\PetsInfo.Api.deps.json
+C:\Users\kero\My Private Documents\Pets\PetsApi\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\bin\Debug\net8.0\PetsInfo.Api.runtimeconfig.json
+C:\Users\kero\My Private Documents\Pets\PetsApi\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\bin\Debug\net8.0\PetsInfo.Api.dll
+C:\Users\kero\My Private Documents\Pets\PetsApi\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\bin\Debug\net8.0\PetsInfo.Api.pdb
+C:\Users\kero\My Private Documents\Pets\PetsApi\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\kero\My Private Documents\Pets\PetsApi\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\kero\My Private Documents\Pets\PetsApi\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\kero\My Private Documents\Pets\PetsApi\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kero\My Private Documents\Pets\PetsApi\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kero\My Private Documents\Pets\PetsApi\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kero\My Private Documents\Pets\PetsApi\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\obj\Debug\net8.0\PetsInfo.Api.csproj.AssemblyReference.cache
+C:\Users\kero\My Private Documents\Pets\PetsApi\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\obj\Debug\net8.0\PetsInfo.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kero\My Private Documents\Pets\PetsApi\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\obj\Debug\net8.0\PetsInfo.Api.AssemblyInfoInputs.cache
+C:\Users\kero\My Private Documents\Pets\PetsApi\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\obj\Debug\net8.0\PetsInfo.Api.AssemblyInfo.cs
+C:\Users\kero\My Private Documents\Pets\PetsApi\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\obj\Debug\net8.0\PetsInfo.Api.csproj.CoreCompileInputs.cache
+C:\Users\kero\My Private Documents\Pets\PetsApi\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\obj\Debug\net8.0\PetsInfo.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kero\My Private Documents\Pets\PetsApi\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\obj\Debug\net8.0\PetsInfo.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kero\My Private Documents\Pets\PetsApi\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kero\My Private Documents\Pets\PetsApi\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\kero\My Private Documents\Pets\PetsApi\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\obj\Debug\net8.0\staticwebassets\msbuild.PetsInfo.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kero\My Private Documents\Pets\PetsApi\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.PetsInfo.Api.props
+C:\Users\kero\My Private Documents\Pets\PetsApi\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PetsInfo.Api.props
+C:\Users\kero\My Private Documents\Pets\PetsApi\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PetsInfo.Api.props
+C:\Users\kero\My Private Documents\Pets\PetsApi\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\kero\My Private Documents\Pets\PetsApi\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\obj\Debug\net8.0\scopedcss\bundle\PetsInfo.Api.styles.css
+C:\Users\kero\My Private Documents\Pets\PetsApi\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\obj\Debug\net8.0\PetsInfo.9DCD88C6.Up2Date
+C:\Users\kero\My Private Documents\Pets\PetsApi\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\obj\Debug\net8.0\PetsInfo.Api.dll
+C:\Users\kero\My Private Documents\Pets\PetsApi\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\obj\Debug\net8.0\refint\PetsInfo.Api.dll
+C:\Users\kero\My Private Documents\Pets\PetsApi\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\obj\Debug\net8.0\PetsInfo.Api.pdb
+C:\Users\kero\My Private Documents\Pets\PetsApi\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\obj\Debug\net8.0\PetsInfo.Api.genruntimeconfig.cache
+C:\Users\kero\My Private Documents\Pets\PetsApi\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\obj\Debug\net8.0\ref\PetsInfo.Api.dll
+C:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\bin\Debug\net8.0\PetsInfo.Api.exe
+C:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\bin\Debug\net8.0\PetsInfo.Api.deps.json
+C:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\bin\Debug\net8.0\PetsInfo.Api.runtimeconfig.json
+C:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\bin\Debug\net8.0\PetsInfo.Api.dll
+C:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\bin\Debug\net8.0\PetsInfo.Api.pdb
+C:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\obj\Debug\net8.0\PetsInfo.Api.csproj.AssemblyReference.cache
+C:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\obj\Debug\net8.0\PetsInfo.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\obj\Debug\net8.0\PetsInfo.Api.AssemblyInfoInputs.cache
+C:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\obj\Debug\net8.0\PetsInfo.Api.AssemblyInfo.cs
+C:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\obj\Debug\net8.0\PetsInfo.Api.csproj.CoreCompileInputs.cache
+C:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\obj\Debug\net8.0\PetsInfo.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\obj\Debug\net8.0\PetsInfo.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\obj\Debug\net8.0\staticwebassets\msbuild.PetsInfo.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.PetsInfo.Api.props
+C:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PetsInfo.Api.props
+C:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PetsInfo.Api.props
+C:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\obj\Debug\net8.0\scopedcss\bundle\PetsInfo.Api.styles.css
+C:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\obj\Debug\net8.0\PetsInfo.9DCD88C6.Up2Date
+C:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\obj\Debug\net8.0\PetsInfo.Api.dll
+C:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\obj\Debug\net8.0\refint\PetsInfo.Api.dll
+C:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\obj\Debug\net8.0\PetsInfo.Api.pdb
+C:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\obj\Debug\net8.0\PetsInfo.Api.genruntimeconfig.cache
+C:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsRegistration\PetsInfo.Api\obj\Debug\net8.0\ref\PetsInfo.Api.dll

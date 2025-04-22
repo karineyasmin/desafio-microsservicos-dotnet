@@ -1,0 +1,18 @@
+@PetsRegistration.Api_HostAddress = http://localhost:5264
+
+### Register a new pet
+POST {{PetsRegistration.Api_HostAddress}}/api/pets
+Content-Type: application/json
+
+{
+  "species": "cat",
+  "breedId": "abys",
+  "name": "whiskers",
+  "age": 2,
+  "tutor": "John Doe",
+  "emailTutor": "john.doe@example.com",
+  "weight": 4.5
+}
+
+### Search for pets
+GET {{PetsRegistration.Api_HostAddress}}/api/pets/search?species=cat&breed=abys

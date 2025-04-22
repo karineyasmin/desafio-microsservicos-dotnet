@@ -1,0 +1,24 @@
+C:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsRegistration\AuthAndIdentity\bin\Debug\net8.0\AuthAndIdentity.deps.json
+C:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsRegistration\AuthAndIdentity\bin\Debug\net8.0\AuthAndIdentity.dll
+C:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsRegistration\AuthAndIdentity\bin\Debug\net8.0\AuthAndIdentity.pdb
+C:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsRegistration\AuthAndIdentity\obj\Debug\net8.0\AuthAndIdentity.csproj.AssemblyReference.cache
+C:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsRegistration\AuthAndIdentity\obj\Debug\net8.0\AuthAndIdentity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsRegistration\AuthAndIdentity\obj\Debug\net8.0\AuthAndIdentity.AssemblyInfoInputs.cache
+C:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsRegistration\AuthAndIdentity\obj\Debug\net8.0\AuthAndIdentity.AssemblyInfo.cs
+C:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsRegistration\AuthAndIdentity\obj\Debug\net8.0\AuthAndIdentity.csproj.CoreCompileInputs.cache
+C:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsRegistration\AuthAndIdentity\obj\Debug\net8.0\AuthAndIdentity.dll
+C:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsRegistration\AuthAndIdentity\obj\Debug\net8.0\refint\AuthAndIdentity.dll
+C:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsRegistration\AuthAndIdentity\obj\Debug\net8.0\AuthAndIdentity.pdb
+C:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsRegistration\AuthAndIdentity\obj\Debug\net8.0\ref\AuthAndIdentity.dll
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsRegistration\AuthAndIdentity\bin\Debug\net8.0\AuthAndIdentity.deps.json
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsRegistration\AuthAndIdentity\bin\Debug\net8.0\AuthAndIdentity.dll
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsRegistration\AuthAndIdentity\bin\Debug\net8.0\AuthAndIdentity.pdb
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsRegistration\AuthAndIdentity\obj\Debug\net8.0\AuthAndIdentity.csproj.AssemblyReference.cache
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsRegistration\AuthAndIdentity\obj\Debug\net8.0\AuthAndIdentity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsRegistration\AuthAndIdentity\obj\Debug\net8.0\AuthAndIdentity.AssemblyInfoInputs.cache
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsRegistration\AuthAndIdentity\obj\Debug\net8.0\AuthAndIdentity.AssemblyInfo.cs
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsRegistration\AuthAndIdentity\obj\Debug\net8.0\AuthAndIdentity.csproj.CoreCompileInputs.cache
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsRegistration\AuthAndIdentity\obj\Debug\net8.0\AuthAndIdentity.dll
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsRegistration\AuthAndIdentity\obj\Debug\net8.0\refint\AuthAndIdentity.dll
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsRegistration\AuthAndIdentity\obj\Debug\net8.0\AuthAndIdentity.pdb
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsRegistration\AuthAndIdentity\obj\Debug\net8.0\ref\AuthAndIdentity.dll

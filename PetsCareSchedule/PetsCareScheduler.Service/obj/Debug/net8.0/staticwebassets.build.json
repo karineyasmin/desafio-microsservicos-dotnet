@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zzXieTRHHTTBfClzvD+Qq2vKI1ILy0V9mwOrQZzYtZY=",
+  "Source": "PetsCareScheduler.Service",
+  "BasePath": "_content/PetsCareScheduler.Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

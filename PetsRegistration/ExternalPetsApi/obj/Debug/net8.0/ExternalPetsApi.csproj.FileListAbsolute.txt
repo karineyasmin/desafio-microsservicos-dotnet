@@ -1,0 +1,24 @@
+C:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsRegistration\ExternalPetsApi\bin\Debug\net8.0\ExternalPetsApi.deps.json
+C:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsRegistration\ExternalPetsApi\bin\Debug\net8.0\ExternalPetsApi.dll
+C:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsRegistration\ExternalPetsApi\bin\Debug\net8.0\ExternalPetsApi.pdb
+C:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsRegistration\ExternalPetsApi\obj\Debug\net8.0\ExternalPetsApi.csproj.AssemblyReference.cache
+C:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsRegistration\ExternalPetsApi\obj\Debug\net8.0\ExternalPetsApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsRegistration\ExternalPetsApi\obj\Debug\net8.0\ExternalPetsApi.AssemblyInfoInputs.cache
+C:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsRegistration\ExternalPetsApi\obj\Debug\net8.0\ExternalPetsApi.AssemblyInfo.cs
+C:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsRegistration\ExternalPetsApi\obj\Debug\net8.0\ExternalPetsApi.csproj.CoreCompileInputs.cache
+C:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsRegistration\ExternalPetsApi\obj\Debug\net8.0\ExternalPetsApi.dll
+C:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsRegistration\ExternalPetsApi\obj\Debug\net8.0\refint\ExternalPetsApi.dll
+C:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsRegistration\ExternalPetsApi\obj\Debug\net8.0\ExternalPetsApi.pdb
+C:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsRegistration\ExternalPetsApi\obj\Debug\net8.0\ref\ExternalPetsApi.dll
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsRegistration\ExternalPetsApi\bin\Debug\net8.0\ExternalPetsApi.deps.json
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsRegistration\ExternalPetsApi\bin\Debug\net8.0\ExternalPetsApi.dll
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsRegistration\ExternalPetsApi\bin\Debug\net8.0\ExternalPetsApi.pdb
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsRegistration\ExternalPetsApi\obj\Debug\net8.0\ExternalPetsApi.csproj.AssemblyReference.cache
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsRegistration\ExternalPetsApi\obj\Debug\net8.0\ExternalPetsApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsRegistration\ExternalPetsApi\obj\Debug\net8.0\ExternalPetsApi.AssemblyInfoInputs.cache
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsRegistration\ExternalPetsApi\obj\Debug\net8.0\ExternalPetsApi.AssemblyInfo.cs
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsRegistration\ExternalPetsApi\obj\Debug\net8.0\ExternalPetsApi.csproj.CoreCompileInputs.cache
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsRegistration\ExternalPetsApi\obj\Debug\net8.0\ExternalPetsApi.dll
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsRegistration\ExternalPetsApi\obj\Debug\net8.0\refint\ExternalPetsApi.dll
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsRegistration\ExternalPetsApi\obj\Debug\net8.0\ExternalPetsApi.pdb
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsRegistration\ExternalPetsApi\obj\Debug\net8.0\ref\ExternalPetsApi.dll

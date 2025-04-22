@@ -1,0 +1,6 @@
+@PetsCareScheduler.Service_HostAddress = http://localhost:5111
+
+GET {{PetsCareScheduler.Service_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

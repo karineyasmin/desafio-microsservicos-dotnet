@@ -1,0 +1,104 @@
+c:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\appsettings.Development.json
+c:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\appsettings.json
+c:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\PetsCareScheduler.Service.exe
+c:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\PetsCareScheduler.Service.deps.json
+c:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\PetsCareScheduler.Service.runtimeconfig.json
+c:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\PetsCareScheduler.Service.dll
+c:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\PetsCareScheduler.Service.pdb
+c:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\DnsClient.dll
+c:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\MassTransit.dll
+c:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\MassTransit.Abstractions.dll
+c:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+c:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+c:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+c:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+c:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+c:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+c:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\Microsoft.OpenApi.dll
+c:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\MongoDB.Bson.dll
+c:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\MongoDB.Driver.dll
+c:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\Newtonsoft.Json.dll
+c:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\RabbitMQ.Client.dll
+c:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\Scrutor.dll
+c:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\SharpCompress.dll
+c:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\Snappier.dll
+c:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll
+c:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.dll
+c:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+c:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+c:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\ZstdSharp.dll
+c:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\obj\Debug\net8.0\PetsCareScheduler.Service.csproj.AssemblyReference.cache
+c:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\obj\Debug\net8.0\PetsCareScheduler.Service.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\obj\Debug\net8.0\PetsCareScheduler.Service.AssemblyInfoInputs.cache
+c:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\obj\Debug\net8.0\PetsCareScheduler.Service.AssemblyInfo.cs
+c:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\obj\Debug\net8.0\PetsCareScheduler.Service.csproj.CoreCompileInputs.cache
+c:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\obj\Debug\net8.0\PetsCareScheduler.Service.MvcApplicationPartsAssemblyInfo.cs
+c:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\obj\Debug\net8.0\PetsCareScheduler.Service.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\obj\Debug\net8.0\staticwebassets.build.json
+c:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\obj\Debug\net8.0\staticwebassets.development.json
+c:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\obj\Debug\net8.0\staticwebassets\msbuild.PetsCareScheduler.Service.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\obj\Debug\net8.0\staticwebassets\msbuild.build.PetsCareScheduler.Service.props
+c:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PetsCareScheduler.Service.props
+c:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PetsCareScheduler.Service.props
+c:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\obj\Debug\net8.0\staticwebassets.pack.json
+c:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\obj\Debug\net8.0\scopedcss\bundle\PetsCareScheduler.Service.styles.css
+c:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\obj\Debug\net8.0\PetsCare.03D31C4C.Up2Date
+c:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\obj\Debug\net8.0\PetsCareScheduler.Service.dll
+c:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\obj\Debug\net8.0\refint\PetsCareScheduler.Service.dll
+c:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\obj\Debug\net8.0\PetsCareScheduler.Service.pdb
+c:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\obj\Debug\net8.0\PetsCareScheduler.Service.genruntimeconfig.cache
+c:\Users\kero\OneDrive - GFT Technologies SE\Desktop\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\obj\Debug\net8.0\ref\PetsCareScheduler.Service.dll
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\appsettings.json
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\PetsCareScheduler.Service.exe
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\PetsCareScheduler.Service.deps.json
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\PetsCareScheduler.Service.runtimeconfig.json
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\PetsCareScheduler.Service.dll
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\PetsCareScheduler.Service.pdb
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\DnsClient.dll
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\MassTransit.dll
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\MassTransit.Abstractions.dll
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\Scrutor.dll
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\Snappier.dll
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\obj\Debug\net8.0\PetsCareScheduler.Service.csproj.AssemblyReference.cache
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\obj\Debug\net8.0\PetsCareScheduler.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\obj\Debug\net8.0\PetsCareScheduler.Service.AssemblyInfoInputs.cache
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\obj\Debug\net8.0\PetsCareScheduler.Service.AssemblyInfo.cs
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\obj\Debug\net8.0\PetsCareScheduler.Service.csproj.CoreCompileInputs.cache
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\obj\Debug\net8.0\PetsCareScheduler.Service.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\obj\Debug\net8.0\PetsCareScheduler.Service.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\obj\Debug\net8.0\staticwebassets\msbuild.PetsCareScheduler.Service.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\obj\Debug\net8.0\staticwebassets\msbuild.build.PetsCareScheduler.Service.props
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PetsCareScheduler.Service.props
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PetsCareScheduler.Service.props
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\obj\Debug\net8.0\scopedcss\bundle\PetsCareScheduler.Service.styles.css
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\obj\Debug\net8.0\PetsCare.03D31C4C.Up2Date
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\obj\Debug\net8.0\PetsCareScheduler.Service.dll
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\obj\Debug\net8.0\refint\PetsCareScheduler.Service.dll
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\obj\Debug\net8.0\PetsCareScheduler.Service.pdb
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\obj\Debug\net8.0\PetsCareScheduler.Service.genruntimeconfig.cache
+C:\Users\kero\My Private Documents\desafiomicrosservicos\PetsCareSchedule\PetsCareScheduler.Service\obj\Debug\net8.0\ref\PetsCareScheduler.Service.dll
